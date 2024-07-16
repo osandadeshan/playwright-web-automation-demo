@@ -1,4 +1,4 @@
-# Mintable Playwright Assignment
+# Playwright Web Automation Demo
 
 [![Playwright UI Tests](https://github.com/osandadeshan/playwright-web-automation-demo/actions/workflows/playwright-ui-test.yml/badge.svg)](https://github.com/osandadeshan/playwright-web-automation-demo/actions/workflows/playwright-ui-test.yml)
 
